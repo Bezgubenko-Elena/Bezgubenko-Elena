@@ -10,6 +10,6 @@ My immediate plans - to create a website with my resume, and then find those who
 ### My skills:
 * [SQL](https://github.com/Bezgubenko-Elena/Sql.git)
 * [Terminal](https://github.com/Bezgubenko-Elena/Terminal.git)
-* Javascript
+* [Javascript](https://github.com/Bezgubenko-Elena/JavaScript.git)
 * [Postman](https://github.com/Bezgubenko-Elena/Postman.git)
 * [DevTools](https://github.com/Bezgubenko-Elena/Devtools.git)
