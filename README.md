@@ -12,4 +12,4 @@ My immediate plans - to create a website with my resume, and then find those who
 * [Terminal](https://github.com/Bezgubenko-Elena/Terminal.git)
 * Javascript
 * Postman
-[DevTools](https://github.com/Bezgubenko-Elena/Devtools.git)
+* [DevTools](https://github.com/Bezgubenko-Elena/Devtools.git)
