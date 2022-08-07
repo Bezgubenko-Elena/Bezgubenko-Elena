@@ -11,5 +11,5 @@ My immediate plans - to create a website with my resume, and then find those who
 * [SQL](https://github.com/Bezgubenko-Elena/Sql.git)
 * [Terminal](https://github.com/Bezgubenko-Elena/Terminal.git)
 * Javascript
-* Postman
+* [Postman](https://github.com/Bezgubenko-Elena/Postman.git)
 * [DevTools](https://github.com/Bezgubenko-Elena/Devtools.git)
