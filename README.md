@@ -1,11 +1,9 @@
 ## Hi there, I'm Helen 👋
 
 
-Now I'm studying on _Software Testing Courses by Vadim Ksendzov_ and I want to become a manual QA.
-I'll show proofs of my testing's skills here.
+Now I work a manual QA in ITooLabs.
 
-Also I'm interested in Frontend Programming. I'll do it in parallel with the testing's study.
-My immediate plans - to create a website with my resume, and then find those who need a website created by a newbie.
+And I learn creating autotests in Python in qa-guru.
 
 ### My skills:
 * [SQL](https://github.com/Bezgubenko-Elena/Sql.git)
