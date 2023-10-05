@@ -8,7 +8,6 @@ And I learn creating autotests in Python in qa-guru.
 ### My skills:
 * [SQL](https://github.com/Bezgubenko-Elena/Sql.git)
 * [Terminal](https://github.com/Bezgubenko-Elena/Terminal.git)
-* [JavaScript](https://github.com/Bezgubenko-Elena/JavaScript.git)
 * [Postman](https://github.com/Bezgubenko-Elena/Postman.git)
 * [DevTools](https://github.com/Bezgubenko-Elena/Devtools.git)
 * [HTML, CSS](https://github.com/Bezgubenko-Elena/Layout_learning.git)
