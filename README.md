@@ -1,22 +1,8 @@
 ## Hi there, I'm Helen 👋
 
-I work a manual QA in ITooLabs.
+**I work a manual QA in ITooLabs.**
 
-I learn creating autotests in Python in qa-guru.
-
-### My contacts:
-
-<a href="https://www.linkedin.com/in/elena-bezgubenko/">
-  <img src="./resources/linkedin.png" width="40" height="40"/>
-</a>
-
-<a href="mailto:protasova-ea@yandex.ru">
-  <img src="./resources/yandex.png" width="40" height="40"/>
-</a>
-
-<a href="https://t.me/Bezgubenko_Elena">
-  <img src="./resources/tg.png" width="40" height="40"/>
-</a>
+**I learn creating autotests in Python in qa-guru.**
 
 ### Tools:
 <p>
@@ -36,3 +22,17 @@ I learn creating autotests in Python in qa-guru.
 <img title="Allure Reports" src="./resources/logo/allure_report.png" width="40" height="40" />
 
 </p>
+
+### My contacts:
+
+<a href="https://www.linkedin.com/in/elena-bezgubenko/">
+  <img src="./resources/linkedin.png" width="40" height="40"/>
+</a>
+
+<a href="mailto:protasova-ea@yandex.ru">
+  <img src="./resources/yandex.png" width="40" height="40"/>
+</a>
+
+<a href="https://t.me/Bezgubenko_Elena">
+  <img src="./resources/tg.png" width="40" height="40"/>
+</a>
