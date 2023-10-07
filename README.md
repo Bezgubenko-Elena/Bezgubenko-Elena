@@ -4,7 +4,7 @@
 
 **I learn creating autotests in Python in qa-guru.**
 
-### Tools:
+## Tools:
 <p>
 <img title="Jira" src="./resources/logo/jira.png" width="40" height="40" />
 <img title="Confluence" src="./resources/logo/confluence.png" width="40" height="40" />
@@ -23,7 +23,7 @@
 
 </p>
 
-### My contacts:
+## My contacts:
 
 <a href="https://www.linkedin.com/in/elena-bezgubenko/">
   <img src="./resources/linkedin.png" width="40" height="40"/>
