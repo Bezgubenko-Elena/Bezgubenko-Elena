@@ -17,7 +17,6 @@
 <img title="Selene" src="./resources/logo/selene.png" width="40" height="40" />
 <img title="Requests" src="./resources/logo/requests.png" width="40" height="40" />
 <img title="Selenoid" src="./resources/logo/selenoid.png" width="40" height="40" />
-<img title="Requests" src="./resources/logo/requests.png" width="40" height="40" />
 <img title="Jenkins" src="./resources/logo/jenkins.png" width="40" height="40" />
 <img title="Allure Reports" src="./resources/logo/allure_report.png" width="40" height="40" />
 
