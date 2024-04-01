@@ -1,10 +1,9 @@
-## Hi there, I'm Helen 👋
+## Привет! 👋
 
-**I work a manual QA in ITooLabs.**
+### Меня зовут Лена.
+#### Я работаю QA-инженером 1.5 года, изучаю автоматизацию тестирования на Python и Java и всесторонне погружаюсь в новую для меня профессию)
 
-**I learn creating autotests in Python in qa-guru.**
-
-## Tools:
+## Стек:
 <p>
 <img title="Jira" src="./resources/logo/jira.png" width="40" height="40" />
 <img title="Confluence" src="./resources/logo/confluence.png" width="40" height="40" />
@@ -22,16 +21,10 @@
 
 </p>
 
-## My contacts:
+## Резюме
+Скачать мое резюме можно по ссылке <a target="_blank" href="E:\qa_guru_python\Readme\resources\CV.pdf">CV_Bezgubenko_Elena</a>.
 
-<a href="https://www.linkedin.com/in/elena-bezgubenko/">
-  <img src="./resources/linkedin.png" width="40" height="40"/>
-</a>
 
-<a href="mailto:protasova-ea@yandex.ru">
-  <img src="./resources/yandex.png" width="40" height="40"/>
-</a>
-
-<a href="https://t.me/Bezgubenko_Elena">
-  <img src="./resources/tg.png" width="40" height="40"/>
-</a>
+## Контакты:
+Пишите мне в **Telegram** (<a target="_blank" href="https://t.me/Bezgubenko_Elena">@Bezgubenko_Elena</a>) 
+или на **Email** (<a target="_blank" href="mailto:protasova-ea@yandex.ru">protasova-ea@yandex.ru</a>).
