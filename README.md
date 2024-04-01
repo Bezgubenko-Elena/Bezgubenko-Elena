@@ -24,5 +24,4 @@
 #### Скачать мое резюме можно по ссылке [CV_Bezgubenko_Elena](resources/CV.pdf).
 
 ## Контакты:
-#### Пишите мне в **Telegram** (<a target="_blank" href="https://t.me/Bezgubenko_Elena">@Bezgubenko_Elena</a>) 
-или на **Email** (<a target="_blank" href="mailto:protasova-ea@yandex.ru">protasova-ea@yandex.ru</a>).
+#### Пишите мне в **Telegram** (<a target="_blank" href="https://t.me/Bezgubenko_Elena">@Bezgubenko_Elena</a>) или на **Email** (<a target="_blank" href="mailto:protasova-ea@yandex.ru">protasova-ea@yandex.ru</a>).
