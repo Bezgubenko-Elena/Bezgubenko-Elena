@@ -20,7 +20,7 @@
 <img title="Allure Reports" src="./resources/logo/allure_report.png" width="40" height="40" />
 </p>
 
-## Резюме
+## Резюме:
 #### Посмотреть и скачать мое резюме можно по ссылке [CV_Bezgubenko_Elena](resources/CV.pdf).
 
 ## Контакты:
