@@ -1,7 +1,7 @@
-## Привет! 👋
+## Привет! 👋 Меня зовут Лена.
 
-### Меня зовут Лена.
-#### Я работаю QA-инженером 1.5 года, изучаю автоматизацию тестирования на Python и Java и всесторонне погружаюсь в новую для меня профессию)
+### Я работаю Manual QA-инженером 1.5 года и изучаю автоматизацию тестирования на Python и Java.
+#### Мой учебный проект, написанный на курсе QA GURU (Python): <a target="_blank" href="https://github.com/Bezgubenko-Elena/test_project_python_UI_and_API">UI и API тесты сайта demoqa.com</a>
 
 ## Стек:
 <p>
@@ -18,13 +18,11 @@
 <img title="Selenoid" src="./resources/logo/selenoid.png" width="40" height="40" />
 <img title="Jenkins" src="./resources/logo/jenkins.png" width="40" height="40" />
 <img title="Allure Reports" src="./resources/logo/allure_report.png" width="40" height="40" />
-
 </p>
 
 ## Резюме
-Скачать мое резюме можно по ссылке <a target="_blank" href="E:\qa_guru_python\Readme\resources\CV.pdf">CV_Bezgubenko_Elena</a>.
-
+#### Скачать мое резюме можно по ссылке [CV_Bezgubenko_Elena](resources/CV.pdf).
 
 ## Контакты:
-Пишите мне в **Telegram** (<a target="_blank" href="https://t.me/Bezgubenko_Elena">@Bezgubenko_Elena</a>) 
+#### Пишите мне в **Telegram** (<a target="_blank" href="https://t.me/Bezgubenko_Elena">@Bezgubenko_Elena</a>) 
 или на **Email** (<a target="_blank" href="mailto:protasova-ea@yandex.ru">protasova-ea@yandex.ru</a>).
