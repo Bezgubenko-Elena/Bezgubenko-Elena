@@ -2,6 +2,7 @@
 
 #### Я работаю Manual QA-инженером более 2 лет и изучаю автоматизацию тестирования на Python.
 #### Мой учебный проект на курсе QA GURU (Python): <a target="_blank" href="https://github.com/Bezgubenko-Elena/test_project_python_UI_and_API">UI и API тесты сайта demoqa.com</a>
+#### Мой проект в рамках программы менторинга Mentor in Tech (Typescript, Playwright): <a target="_blank" href="https://github.com/Bezgubenko-Elena/test_ts_pw">Составление заказа на сайте https://dev.topklik.online/</a>
 
 ## Стек:
 <p>
